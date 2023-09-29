@@ -3,14 +3,14 @@ var images=[];
 var time=3000;
 	 
 //Image List
-// images[0] = "Images/young-farmers-image.png";
-// images[1] = "Images/surfing-for-farmers-image.png";
-// images[2] = "Images/groundswell-image.png";
+// images[0] = "young-farmers-image.png";
+// images[1] = "surfing-for-farmers-image.png";
+// images[2] = "groundswell-image.png";
 
 //Image List
- images[0] = "Images/mountain-background.jpg";
- images[1] = "Images/tractor-background.jpg";
- images[2] = "Images/harvister-background-image.jpg";
+ images[0] = "mountain-background.jpg";
+ images[1] = "tractor-background.jpg";
+ images[2] = "harvister-background-image.jpg";
 
 // Change Image
 function changeImg(){
